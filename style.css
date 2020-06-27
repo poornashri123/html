@@ -1,0 +1,24 @@
+body{
+    background-color:pink;
+    opacity: 0.8;
+    
+}
+h1{
+    color: black;font-size: xx-large;
+    background-color: palevioletred;
+    border: dashed;
+
+}
+p{
+    background-color:plum;
+    align-self: baseline;
+   outline: black;
+   outline-style: solid;
+    margin: initial;
+    font-size: larger;
+    
+}
+
+h1:hover{
+    background-color:peachpuff;
+}
